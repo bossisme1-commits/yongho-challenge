@@ -1,0 +1,12 @@
+{
+  "name": "스마트폰 잠시 멈춤",
+  "short_name": "스마트폰 멈춤",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f8ff",
+  "theme_color": "#185fd2",
+  "icons": [
+    {"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
