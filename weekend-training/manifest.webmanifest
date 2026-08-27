@@ -1,0 +1,12 @@
+{
+  "name": "주말보충수련 스탬프",
+  "short_name": "보충수련 스탬프",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f8ff",
+  "theme_color": "#165fd3",
+  "icons": [
+    {"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
